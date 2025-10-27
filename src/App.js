@@ -4,7 +4,7 @@ import AppDashboard from './components/dashboard';
 function App() {
   return (
     <div className="App">
-<AppDashboard/>
+    <AppDashboard/>
     </div>
   );
 }
